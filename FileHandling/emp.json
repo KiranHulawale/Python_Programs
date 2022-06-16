@@ -1,0 +1,17 @@
+{
+    "firstName": "Kajal",
+    "lastName" : "Birla",
+    "address" :[
+        {
+            "street" :"CSRoad",
+            "City" : "Pune",
+            "state" :"MH"
+        },
+        {
+            "street" :"S B Road",
+            "City" : "Pimpri",
+            "state" :"MH"
+
+        }
+    ]
+}
